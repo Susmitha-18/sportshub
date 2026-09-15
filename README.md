@@ -151,16 +151,6 @@ const app = initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
 ```
 
-## 📸 Screenshots
-
-### Sign In Page
-
-![Sign In Page](screenshots/Screenshot%202025-09-19%20100527.png)
-
-### Firebase Integration
-
-![Firebase Integration](screenshots/Screenshot%202025-09-19%20203622.png)
-
 ## 🎯 Project Objective
 
 The main objective of this project is to develop a sports-oriented web platform that combines **user authentication, sports information, performance-related features, training guidance, and user support** in a single application.
